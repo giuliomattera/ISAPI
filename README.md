@@ -3,6 +3,21 @@
 About course...
 
 ## DEMOs
+
+* Introduction to python programming
+* Introduction to signal processing with Simulink
+* OPEN CV basic commands
+* Highway line detection
+* Off line seamtracker for path generation 
+* Modelling of GMAW process in Simulink
+* Modelling of robotic Arm in Simscape
+* DNN : Run or walk detector
+* DNN : Universal approximation theorem proof with sine wave function
+* DNN : Quality predictor for GMA Welding
+* CNN : Flower classifier
+
+
+## Technologies
 * MATLAB R2021a : Simscape, Robotics, DSP, Mulitbody, Control design toolboxes
 * Tensorflow 2.2.0 with Keras API
 * Python 3.7.6
@@ -12,10 +27,6 @@ About course...
 * Matplotlib 3.1.3
 * Pandas 1.0.1
 * ...
-
-## Technologies
-* ...
-
 ## Resources 
 
 MATLAB: 
