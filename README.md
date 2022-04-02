@@ -42,4 +42,5 @@ PYTHON:
 * Panda free course: https://www.youtube.com/watch?v=vmEHCJofslg
 * Numpy tutorial : https://www.youtube.com/watch?v=QUT1VHiLmmI
 * Matplotlib Tutorial : https://www.youtube.com/watch?v=cTJBJH8hacc
+* ML algorithms in python : https://the-algorithms.com/category/machinelearning
 * ...
