@@ -43,4 +43,5 @@ PYTHON:
 * Numpy tutorial : https://www.youtube.com/watch?v=QUT1VHiLmmI
 * Matplotlib Tutorial : https://www.youtube.com/watch?v=cTJBJH8hacc
 * ML algorithms in python : https://the-algorithms.com/category/machinelearning
+* Deep Neural Networks for Defects Detection in Gas Metal Arc Welding : https://www.researchgate.net/publication/359700144_Deep_Neural_Networks_for_Defects_Detection_in_Gas_Metal_Arc_Welding
 * ...
