@@ -20,11 +20,12 @@ The ISAPI course aims to introduce students to the world of smart factories and 
 * Off line seamtracker for path generation
 * Modelling of GMAW process in Simulink
 * Modelling of robotic Arm in Simscape
-* Recap on key concepts in deep learning and introductio to Tensorflow framework
+* Recap on key concepts in deep learning and introduction to Tensorflow framework
 * DNN : Universal approximation theorem proof with sine wave function with tensorflow
 * DNN : Run or walk detector (using MATLAB Deep learning toolbox)
 * DNN : Quality predictor for GMA Welding with tensorflow
 * CNN : Flower classifier with tensorflow
+* What's next? An overview to Recurrent NN and Reinforcement learning
 
 
 ## Technologies
@@ -54,4 +55,5 @@ PYTHON:
 * Matplotlib Tutorial : https://www.youtube.com/watch?v=cTJBJH8hacc
 * ML algorithms in python : https://the-algorithms.com/category/machinelearning
 * Deep Neural Networks for Defects Detection in Gas Metal Arc Welding : https://www.researchgate.net/publication/359700144_Deep_Neural_Networks_for_Defects_Detection_in_Gas_Metal_Arc_Welding
+* Control with deep learning : https://github.com/giuliomattera/Cartpole-QAC-DDPG-agent-ros-bridge-for-simulink
 * ...
