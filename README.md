@@ -14,16 +14,16 @@ The ISAPI course aims to introduce students to the world of smart factories and 
 
 * Edge computing devices 
 * Introduction to python programming and Linux based OS
-* Introduction to signal processing with Simulink
+* [Introduction to signal processing with Simulink](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/1.SignalProcessingSimulink)
 * Recap on key concepts in computer vision and OpenCV library
 * Highway line detection
 * Off line seamtracker for path generation
-* Modelling of GMAW process in Simulink
-* Modelling of robotic Arm in Simscape
+* [Modelling of GMAW process in Simulink](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/2_GMAW_Model)
+* [Modelling of robotic Arm in Simscape](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/3_RobotViperS850_Model)
 * Recap on key concepts in deep learning and introduction to Tensorflow framework
 * DNN : Universal approximation theorem proof with sine wave function with tensorflow
-* DNN : Run or walk detector (using MATLAB Deep learning toolbox)
-* DNN : Quality predictor for GMA Welding with tensorflow
+* [DNN : Run or walk detector (using MATLAB Deep learning toolbox)](https://github.com/giuliomattera/ISAPI2022/tree/main/2_PYTHON_EXE/Run_Walk_detector)
+* [DNN : Quality predictor for GMA Welding with tensorflow](https://github.com/giuliomattera/ISAPI2022/tree/main/2_PYTHON_EXE/DefectDet_Welding)
 * CNN : Flower classifier with tensorflow
 * What's next? An overview to Recurrent NN and Reinforcement learning
 
