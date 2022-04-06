@@ -41,19 +41,19 @@ The ISAPI course aims to introduce students to the world of smart factories and 
 ## Resources 
 
 MATLAB: 
-* Getting started with Simulink :https://www.youtube.com/watch?v=iOmqgewj5XI&list=PL484BA2AD3AE4C2D0&index=3
-* Introduction to model based design with Simulink and Simscape : https://www.youtube.com/watch?v=Jj4jPiWUO2Y&list=PLF0zuIDWcRPp-MnYDHb337HH_guGHxYKy&index=3
-* Code generation for Rasberry Pi : https://www.youtube.com/watch?v=wWLBugWJLwQ
+* [Getting started with Simulink](https://www.youtube.com/watch?v=iOmqgewj5XI&list=PL484BA2AD3AE4C2D0&index=3)
+* [Introduction to model based design with Simulink and Simscape](https://www.youtube.com/watch?v=Jj4jPiWUO2Y&list=PLF0zuIDWcRPp-MnYDHb337HH_guGHxYKy&index=3)
+* [Code generation for Rasberry Pi](https://www.youtube.com/watch?v=wWLBugWJLwQ)
 * ...
 
 PYTHON: 
-* OpenCV free course : https://www.youtube.com/watch?v=oXlwWbU8l2o
-* Git and GitHub for beginners : https://www.youtube.com/watch?v=RGOj5yH7evk
-* Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial: https://www.youtube.com/watch?v=qFJeN9V1ZsI
-* Panda free course: https://www.youtube.com/watch?v=vmEHCJofslg
-* Numpy tutorial : https://www.youtube.com/watch?v=QUT1VHiLmmI
-* Matplotlib Tutorial : https://www.youtube.com/watch?v=cTJBJH8hacc
-* ML algorithms in python : https://the-algorithms.com/category/machinelearning
-* Deep Neural Networks for Defects Detection in Gas Metal Arc Welding : https://www.researchgate.net/publication/359700144_Deep_Neural_Networks_for_Defects_Detection_in_Gas_Metal_Arc_Welding
-* Control with deep learning : https://github.com/giuliomattera/Cartpole-QAC-DDPG-agent-ros-bridge-for-simulink
+* [OpenCV free course](https://www.youtube.com/watch?v=oXlwWbU8l2o)
+* [Git and GitHub for beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+* [Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=qFJeN9V1ZsI
+* [Panda free course](https://www.youtube.com/watch?v=vmEHCJofslg)
+* [Numpy tutorial](https://www.youtube.com/watch?v=QUT1VHiLmmI)
+* [Matplotlib Tutorial](https://www.youtube.com/watch?v=cTJBJH8hacc)
+* [ML algorithms in python](https://the-algorithms.com/category/machinelearning)
+* [Deep Neural Networks for Defects Detection in Gas Metal Arc Welding](https://www.researchgate.net/publication/359700144_Deep_Neural_Networks_for_Defects_Detection_in_Gas_Metal_Arc_Welding)
+* [Control with deep learning](https://github.com/giuliomattera/Cartpole-QAC-DDPG-agent-ros-bridge-for-simulink)
 * ...
