@@ -40,7 +40,7 @@ The ISAPI course aims to introduce students to the world of smart factories and 
 * ...
 ## Resources 
 
-* [Machine learning](https://ml.berkeley.edu/blog/tag/crash-course)
+* [Machine learning course from Berkeley university](https://ml.berkeley.edu/blog/tag/crash-course)
 
 MATLAB: 
 * [Getting started with Simulink](https://www.youtube.com/watch?v=iOmqgewj5XI&list=PL484BA2AD3AE4C2D0&index=3)
