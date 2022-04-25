@@ -8,7 +8,8 @@ The ISAPI course aims to introduce students to the world of smart factories and 
 ## Course schedule
 
 * Recap on production systems
-* ...
+* Introduction to artificial intelligence
+* ..
 
 ## DEMOs and additional lectures
 
