@@ -15,6 +15,9 @@ The ISAPI course aims to introduce students to the world of smart factories and 
 
 * Edge computing devices 
 * Introduction to python programming and Linux based OS
+* [Developing physical models with Simulink and Simscape](https://github.com/giuliomattera/ISAPI2022/blob/main/1_MATLAB_EXE/my_system.slx)
+* [Modeling contacts with Simscape multibody](https://github.com/giuliomattera/ISAPI2022/blob/main/1_MATLAB_EXE/contact.slx)
+* [Modeling robot kinematics with Simscape Multibody](https://github.com/giuliomattera/ISAPI2022/blob/main/1_MATLAB_EXE/only_robot.slx)
 * [Introduction to signal processing with Simulink](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/1.SignalProcessingSimulink)
 * Recap on key concepts in computer vision and OpenCV library
 * Highway line detection
