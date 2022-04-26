@@ -18,12 +18,13 @@ The ISAPI course aims to introduce students to the world of smart factories and 
 * [Developing physical models with Simulink and Simscape](https://github.com/giuliomattera/ISAPI2022/blob/main/1_MATLAB_EXE/my_system.slx)
 * [Modeling contacts with Simscape multibody](https://github.com/giuliomattera/ISAPI2022/blob/main/1_MATLAB_EXE/contact.slx)
 * [Modeling robot kinematics with Simscape Multibody](https://github.com/giuliomattera/ISAPI2022/blob/main/1_MATLAB_EXE/only_robot.slx)
+* [Modelling of GMAW process in Simulink](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/2_GMAW_Model)
+* [Modelling of Vipers850 in Simscape](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/3_RobotViperS850_Model)
+* Design of mechatronic system with Simulink/Simscape
 * [Introduction to signal processing with Simulink](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/1.SignalProcessingSimulink)
 * Recap on key concepts in computer vision and OpenCV library
 * Highway line detection
 * Off line seamtracker for path generation
-* [Modelling of GMAW process in Simulink](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/2_GMAW_Model)
-* [Modelling of Vipers850 in Simscape](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/3_RobotViperS850_Model)
 * Recap on key concepts in deep learning and introduction to Tensorflow framework
 * DNN : Universal approximation theorem proof with sine wave function with tensorflow
 * [DNN : Run or walk detector (using MATLAB Deep learning toolbox)](https://github.com/giuliomattera/ISAPI2022/tree/main/2_PYTHON_EXE/Run_Walk_detector)
