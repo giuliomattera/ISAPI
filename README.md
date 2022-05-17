@@ -14,15 +14,18 @@ The ISAPI course aims to introduce students to the world of smart factories and 
 ## DEMOs and additional lectures
 
 * [Edge computing devices](https://github.com/giuliomattera/ISAPI2022/blob/main/slides_/1.HPC%20Edge%20device.pptx-1.pdf)
-* [Introduction to python programming and Linux based OS](https://github.com/giuliomattera/ISAPI2022/tree/main/2_PYTHON_EXE/first_prj)
+* [Intro to python, linux based OS and git](https://github.com/giuliomattera/ISAPI2022/blob/main/_slides/%5BITA%5D%20Intro%20to%20Python%20programming%2C%20Linux%20based%20OS%20and%20git.pdf)
+* [Exercise :python programming](https://github.com/giuliomattera/ISAPI2022/tree/main/2_PYTHON_EXE/first_prj)
+* [Digital twin](https://github.com/giuliomattera/ISAPI2022/blob/main/_slides/Digital%20Twin.pdf)
+* [A really quick intro to robotics](https://github.com/giuliomattera/ISAPI2022/blob/main/_slides/Robotic%20system%20development.pptx.pdf))
 * [Developing physical models with Simulink and Simscape](https://github.com/giuliomattera/ISAPI2022/blob/main/1_MATLAB_EXE/my_system.slx)
 * [Modeling contacts with Simscape multibody](https://github.com/giuliomattera/ISAPI2022/blob/main/1_MATLAB_EXE/contact.slx)
 * [Modeling robot kinematics with Simscape Multibody](https://github.com/giuliomattera/ISAPI2022/blob/main/1_MATLAB_EXE/only_robot.slx)
 * [Modelling of GMAW process in Simulink](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/2_GMAW_Model)
 * [Modelling of Vipers850 in Simscape](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/3_RobotViperS850_Model)
-* [Design industrial cell with Fanuc SR6iA robot](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/4_Fanuc_SCARA_SR6iA)
+* [Slide : Design industrial cell with Fanuc SR6iA robot](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/4_Fanuc_SCARA_SR6iA)
 * [Introduction to signal processing with Simulink](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/1.SignalProcessingSimulink)
-* [Signal processing with Simulink. Low pass and Kalman filter design](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/1.SignalProcessingSimulink)
+* [Signal processing with Simulink. Low pass and Kalman filters design](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/1.SignalProcessingSimulink)
 * Recap on key concepts in computer vision and OpenCV library
 * Highway line detection
 * Off line seamtracker for path generation
