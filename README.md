@@ -18,7 +18,7 @@ The ISAPI course aims to introduce students to the world of smart factories and 
 * [Intro to python, linux based OS and git](https://github.com/giuliomattera/ISAPI2022/blob/main/_slides/%5BITA%5D%20Intro%20to%20Python%20programming%2C%20Linux%20based%20OS%20and%20git.pdf)
 * [Exercise :python programming](https://github.com/giuliomattera/ISAPI2022/tree/main/2_PYTHON_EXE/first_prj)
 * [Digital twin](https://github.com/giuliomattera/ISAPI2022/blob/main/_slides/Digital%20Twin.pdf)
-* [A really quick intro to robotics](https://github.com/giuliomattera/ISAPI2022/blob/main/_slides/Robotic%20system%20development.pptx.pdf))
+* [A really quick intro to robotics](https://github.com/giuliomattera/ISAPI2022/blob/main/_slides/Robotic%20system%20development.pptx.pdf)
 * [Developing physical models with Simulink and Simscape](https://github.com/giuliomattera/ISAPI2022/blob/main/1_MATLAB_EXE/my_system.slx)
 * [Modeling contacts with Simscape multibody](https://github.com/giuliomattera/ISAPI2022/blob/main/1_MATLAB_EXE/contact.slx)
 * [Modeling robot kinematics with Simscape Multibody](https://github.com/giuliomattera/ISAPI2022/blob/main/1_MATLAB_EXE/only_robot.slx)
