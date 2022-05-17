@@ -10,6 +10,7 @@ The ISAPI course aims to introduce students to the world of smart factories and 
 * Recap on production systems
 * Key concept of Industry 4.0
 * Sensor used in industrial production
+* ...
 
 ## DEMOs and additional lectures
 
