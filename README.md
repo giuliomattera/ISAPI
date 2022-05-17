@@ -20,7 +20,7 @@ The ISAPI course aims to introduce students to the world of smart factories and 
 * [Modeling robot kinematics with Simscape Multibody](https://github.com/giuliomattera/ISAPI2022/blob/main/1_MATLAB_EXE/only_robot.slx)
 * [Modelling of GMAW process in Simulink](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/2_GMAW_Model)
 * [Modelling of Vipers850 in Simscape](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/3_RobotViperS850_Model)
-* Design of mechatronic system with Simulink/Simscape
+* [Design industrial cell with Fanuc SR6iA robot](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/4_Fanuc_SCARA_SR6iA)
 * [Introduction to signal processing with Simulink](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/1.SignalProcessingSimulink)
 * Recap on key concepts in computer vision and OpenCV library
 * Highway line detection
