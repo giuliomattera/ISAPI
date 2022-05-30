@@ -27,7 +27,7 @@ The ISAPI course aims to introduce students to the world of smart factories and 
 * [Slide : Design industrial cell with Fanuc SR6iA robot](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/4_Fanuc_SCARA_SR6iA)
 * [Introduction to signal processing with Simulink](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/1.SignalProcessingSimulink)
 * [Signal processing with Simulink. Low pass and Kalman filters design](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/1.SignalProcessingSimulink)
-* Recap on key concepts in computer vision and OpenCV library
+* [Recap on key concepts in computer vision and OpenCV library](https://github.com/giuliomattera/ISAPI2022/blob/main/_slides/Intro%20computer%20vision.pdf)
 * Highway line detection
 * Off line seamtracker for path generation
 * Recap on key concepts in deep learning and introduction to Tensorflow framework
