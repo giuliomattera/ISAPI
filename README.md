@@ -32,7 +32,7 @@ The ISAPI course aims to introduce students to the world of smart factories and 
 * Highway line detection
 * Off line seamtracker for path generation
 * Recap on key concepts in deep learning and introduction to Tensorflow framework
-* DNN : Universal approximation theorem proof with sine wave function with tensorflow
+* [DNN : Universal approximation theorem proof with sine wave function with tensorflow](https://github.com/giuliomattera/ISAPI2022/blob/main/2_PYTHON_EXE/generalization_proof.py)
 * [DNN : Run or walk detector (using MATLAB Deep learning toolbox)](https://github.com/giuliomattera/ISAPI2022/tree/main/2_PYTHON_EXE/Run_Walk_detector)
 * [DNN : Quality predictor for GMA Welding with tensorflow](https://github.com/giuliomattera/ISAPI2022/tree/main/2_PYTHON_EXE/DefectDet_Welding)
 * CNN : Flower classifier with tensorflow
