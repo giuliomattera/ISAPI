@@ -65,3 +65,4 @@ The ISAPI course aims to introduce students to the world of smart factories and 
 * [Deep Neural Networks for Defects Detection in Gas Metal Arc Welding](https://www.researchgate.net/publication/359700144_Deep_Neural_Networks_for_Defects_Detection_in_Gas_Metal_Arc_Welding)
 * [Control with deep learning : Using RL for cartpole system](https://github.com/giuliomattera/Cartpole-QAC-DDPG-agent-ros-bridge-for-simulink)
 * [Queensland University (AU) Robot Academy](https://robotacademy.net.au/)
+* [Computer vision exercises](https://staff.fnwi.uva.nl/r.vandenboomgaard/IPCV20172018/20172018/LabExercises/index.html)
