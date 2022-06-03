@@ -30,7 +30,7 @@ The ISAPI course aims to introduce students to the world of smart factories and 
 * [Signal processing with Simulink. Low pass and Kalman filters design](https://github.com/giuliomattera/ISAPI2022/tree/main/1_MATLAB_EXE/1.SignalProcessingSimulink)
 * [Recap on key concepts in computer vision and OpenCV library](https://github.com/giuliomattera/ISAPI2022/blob/main/_slides/Intro%20computer%20vision.pdf)
 * [Off line seamtracker for path generation](https://github.com/giuliomattera/ISAPI2022/tree/main/2_PYTHON_EXE/seam_tracker)
-* [Key concepts in machine learning and computer vision. Introduction to Tensorflow framework. An overview to Recurrent NN and Reinforcement learning]
+* [Key concepts in machine learning and computer vision. Introduction to Tensorflow framework. An overview to Recurrent NN and Reinforcement learning](https://github.com/giuliomattera/ISAPI2022/blob/main/_slides/ML_ISAPI2022.pdf)
 * [DNN : Universal approximation theorem proof with sine wave function with tensorflow](https://github.com/giuliomattera/ISAPI2022/blob/main/2_PYTHON_EXE/generalization_proof.py)
 * [DNN : Run or walk detector (using MATLAB Deep learning toolbox)](https://github.com/giuliomattera/ISAPI2022/tree/main/2_PYTHON_EXE/Run_Walk_detector)
 * [DNN : Quality predictor for GMA Welding with tensorflow](https://github.com/giuliomattera/ISAPI2022/tree/main/2_PYTHON_EXE/DefectDet_Welding)
@@ -46,7 +46,7 @@ The ISAPI course aims to introduce students to the world of smart factories and 
 * Scikitlearn 0.22.1
 * Matplotlib 3.1.3
 * Pandas 1.0.1
-* ...
+
 ## Resources 
 
 * [Machine learning course from Berkeley university](https://ml.berkeley.edu/blog/tag/crash-course)
