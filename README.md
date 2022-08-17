@@ -1,4 +1,4 @@
-# ISAPI 2022 Repo
+# ISAPI Repo
 
 The ISAPI course aims to introduce students to the world of smart factories and Industry 4.0, providing theoretical tools on aspects of production systems, sensors used in industrial production and the basics of the most innovative algorithms of artificial intelligence and vision, with a careful look at the future applications and impacts that these have had and that these will have on future production systems. In addition, key topics such as cyber physical systems and digital twin, useful for virtual commissioning (but not only), will also be covered. Finally, a series of exercises will be proposed in order to introduce students to programming (Python) and modeling-simulation of complex systems (Simulink/Simscape).
 
